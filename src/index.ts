@@ -1,1 +1,2 @@
-export const Greeter = (name: string) => `Hello ${name}`;
+export { isNotNull } from './utilities/isNotNull';
+export { isNotNullOrUndefined } from './utilities/isNotNullOrUndefined';
