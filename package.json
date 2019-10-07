@@ -1,0 +1,24 @@
+{
+  "name": "rxjs-ts-utility",
+  "version": "1.0.0",
+  "description": "Custom RxJs operators and TypeScript utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhise/rxjs-ts-utility.git"
+  },
+  "author": "erhise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erhise/rxjs-ts-utility/issues"
+  },
+  "homepage": "https://github.com/erhise/rxjs-ts-utility#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}
