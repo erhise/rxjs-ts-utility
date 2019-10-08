@@ -3,6 +3,6 @@
  * @param {*} [value] A value of some type.
  * @returns {*} Returns value with type separated from null.
  */
-export function isNotNull<T>(value: null | T): value is T {
+export function isNotNull<T>(value: T | null): value is T {
   return value !== null;
 }
