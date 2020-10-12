@@ -21,9 +21,9 @@
   "homepage": "https://github.com/erhise/rxjs-ts-utility#readme",
   "dependencies": {},
   "devDependencies": {
-    "@types/jest": "^24.0.18",
-    "jest": "^24.9.0",
-    "prettier": "^1.18.2",
+    "@types/jest": "^26.0.14",
+    "jest": "^26.5.3",
+    "prettier": "^2.1.2",
     "ts-jest": "^24.1.0",
     "tslint": "^5.20.0",
     "tslint-config-prettier": "^1.18.0",
